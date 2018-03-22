@@ -1,0 +1,8 @@
+- `human.rb`、`human_spec.rb`
+  - rspec-mocksの機能を使ったサンプル
+    - `double(..)`
+    - `double(.., method: "retval")`
+    - `allow(..).to receive(..)`
+    - `expect(..).to receive(..)`
+    - `and_return`
+    - `and_raise`
